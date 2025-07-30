@@ -27,7 +27,7 @@
 
 
 
-> [Chenxing Jiang*](https://jiang-cx.github.io/), Yiming Luo, [Boyu Zhou †](http://sysu-star.com/people/), [Shaojie Shen](https://uav.hkust.edu.hk/group/)
+> [Chenxing Jiang](https://jiang-cx.github.io/), Yiming Luo, [Boyu Zhou †](http://sysu-star.com/people/), [Shaojie Shen](https://uav.hkust.edu.hk/group/)
 >
 > IEEE Robotics and Automation Letters 2024
 
@@ -286,20 +286,22 @@ If you find our work useful, please consider citing:
 
 ```bash
 @article{jiang2024h3,
-  title={H3-Mapping: Quasi-Heterogeneous Feature Grids for Real-time Dense Mapping Using Hierarchical Hybrid Representation},
+  title={H3-Mapping: Quasi-Heterogeneous Feature Grids for Real-Time Dense Mapping Using Hierarchical Hybrid Representation},
   author={Jiang, Chenxing and Luo, Yiming and Zhou, Boyu and Shen, Shaojie},
-  journal={arXiv preprint arXiv:2403.10821},
-  year={2024}
+  journal={IEEE Robotics and Automation Letters},
+  year={2024},
+  publisher={IEEE}
 }
 
-@ARTICLE{10243098,
+@article{jiang2023h,
+  title={H $ \_ $\{$2$\}$ $-Mapping: Real-time dense mapping using hierarchical hybrid representation},
   author={Jiang, Chenxing and Zhang, Hanwen and Liu, Peize and Yu, Zehuan and Cheng, Hui and Zhou, Boyu and Shen, Shaojie},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={H$_{2}$-Mapping: Real-Time Dense Mapping Using Hierarchical Hybrid Representation}, 
-  year={2023},
+  journal={IEEE Robotics and Automation Letters},
   volume={8},
   number={10},
-  pages={6787-6794},
-  doi={10.1109/LRA.2023.3313051}}
+  pages={6787--6794},
+  year={2023},
+  publisher={IEEE}
+}
 ```
 
